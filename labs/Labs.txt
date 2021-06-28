@@ -1,0 +1,18 @@
+Basics: https://developer.android.com/codelabs/jetpack-compose-basics?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+State: https://developer.android.com/codelabs/jetpack-compose-state?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#1
+
+Layouts: https://developer.android.com/codelabs/jetpack-compose-layouts?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+Navigation: https://developer.android.com/codelabs/jetpack-compose-navigation?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+Animation: https://developer.android.com/codelabs/jetpack-compose-animation?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+Theming: https://developer.android.com/codelabs/jetpack-compose-theming?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+Testing: https://developer.android.com/codelabs/jetpack-compose-testing?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+Migrating: https://developer.android.com/codelabs/jetpack-compose-migration?hl=en&continue=https%3A%2F%2Fcodelabs.developers.google.com%2F%3Fcat%3Dandroid#0
+
+
+Margery: 206-463-9958 
